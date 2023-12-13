@@ -9,6 +9,7 @@ Added alt text to every image within the given webpage.
 N/A
 
 ## Usage
+https://alexwoldmskel.github.io/Horizeon-Refactor/
 
 ## Credits
 
